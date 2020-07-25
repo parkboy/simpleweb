@@ -15,7 +15,7 @@
 $ chmod +x awp_unix_1_0_0.sh
 $ ./awp_unix_1_0_0.sh
 ```
-3. klik next sepert pada gambar
+3. klik next sepert pada gambar\
 ![](install/1.jpg)
 ![](install/2.jpg)
 ![](install/3.jpg)
